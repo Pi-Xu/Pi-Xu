@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pi-Xu/Pi-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hi there! 👋, I'm Wenqian (闻谦), a Shanghai University of Finance and Economics (SUFE) graduate with a major in Statistics. I'm passionate about reinforcement learning. I love reading, running, and coding, always curious about the world.
+
+- 🌐 Check out my work on:
+  - English Page (under preparation)
+  - [Chinese Page](https://pi-xu.github.io/pages/about/)
+
+- 📚 My current favorite book: [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
+
+- 🎵 Grooving to tunes by: [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)
