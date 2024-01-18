@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌐 Check out my work on:
   - English Page (under preparation)
-  - [Chinese Page](https://pi-xu.github.io/pages/about/)
+  - [Chinese Page](https://pi-xu.github.io/pages-zn/about/)
 
 - 📚 My current favorite book: [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
 
