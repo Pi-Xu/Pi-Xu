@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Hi there! 👋, I'm Wenqian (闻谦), a Shanghai University of Finance and Economics (SUFE) graduate with a major in Statistics. I'm passionate about reinforcement learning. I love reading, running, and coding, always curious about the world.
 
 - 🌐 Check out my work on:
-  - English Page (under preparation)
+  - [English Page](https://pi-xu.github.io/) (under preparation)
   - [Chinese Page](https://pi-xu.github.io/pages-zn/about/)
 
 - 📚 My current favorite book: [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
