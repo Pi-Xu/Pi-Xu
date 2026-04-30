@@ -1,24 +1,11 @@
-<!--
-**Pi-Xu/Pi-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Wenqian Xu (闻谦) 👋
 
-Here are some ideas to get you started:
+Incoming PhD student at the University of Toronto.  
+Statistics graduate from Shanghai University of Finance and Economics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on reinforcement learning, psychometrics, and AI-assisted research, with a particular interest in sequential decision-making models for learning, ability, and human-AI interaction.
 
-- Hi there! 👋, I'm Wenqian (闻谦), a Shanghai University of Finance and Economics (SUFE) graduate with a major in Statistics. I'm passionate about reinforcement learning. I love reading, running, and coding, always curious about the world.
+### 🌐 Links
 
-- 🌐 Check out my work on:
-  - [English Page](https://pi-xu.github.io/)
-  - [Chinese Page](https://pi-xu.github.io/pages-zn/about/)
-
-- 📚 My current favorite book: [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
-
-- 🎵 Grooving to tunes by: [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)
+- [Personal Website](https://pi-xu.github.io/)
+- [中文主页](https://pi-xu.github.io/pages-zn/about/)
